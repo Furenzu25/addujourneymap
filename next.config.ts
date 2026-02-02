@@ -5,9 +5,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  // Update this to your GitHub repo name when deploying
-  // basePath: '/your-repo-name',
-  // assetPrefix: '/your-repo-name/',
+  basePath: '/addujourneymap',
+  assetPrefix: '/addujourneymap/',
 };
 
 export default nextConfig;
