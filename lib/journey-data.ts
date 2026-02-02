@@ -40,7 +40,7 @@ export const journeyData: YearData[] = [
     title: "🌱 Year 1: Beginnings",
     description: "My first steps into the Ateneo community. Moments of discovery and new friendships.",
     images: [
-      { id: "1-1", src: `${basePath}/images/year1/1st year.jpg`, caption: "Cafe hangout with friends after a stressful day at school - learning that sometimes you just need to step away and breathe", lens: "places" },
+      { id: "1-1", src: `${basePath}/images/year1/1st_year.jpg`, caption: "Cafe hangout with friends after a stressful day at school - learning that sometimes you just need to step away and breathe", lens: "places" },
       { id: "1-2", src: `${basePath}/images/year1/1st_year_2nd.jpg`, caption: "A special place that holds memories - one of my close friend's favorite spots to visit and eat at", lens: "places" },
     ],
   },
@@ -49,8 +49,8 @@ export const journeyData: YearData[] = [
     title: "🌿 Year 2: Growth",
     description: "Finding my footing. Experiences that shaped my values and perspectives.",
     images: [
-      { id: "2-1", src: `${basePath}/images/year2/2nd year.jpg`, caption: "A funny memory of me sleeping during class - the reality of surviving college life", lens: "becoming" },
-      { id: "2-2", src: `${basePath}/images/year2/2nd year palaro.jpg`, caption: "Our first gold medal in CS Palaro! Together with Glenn, Ria, Karl, Tristan, and our upperclassmen Yvan and Ethan", lens: "events" },
+      { id: "2-1", src: `${basePath}/images/year2/2nd_year.jpg`, caption: "A funny memory of me sleeping during class - the reality of surviving college life", lens: "becoming" },
+      { id: "2-2", src: `${basePath}/images/year2/2nd_year_palaro.jpg`, caption: "Our first gold medal in CS Palaro! Together with Glenn, Ria, Karl, Tristan, and our upperclassmen Yvan and Ethan", lens: "events" },
     ],
   },
   {
@@ -58,8 +58,8 @@ export const journeyData: YearData[] = [
     title: "🌳 Year 3: Flourishing",
     description: "My voice is growing. Moments of leadership and deepening connections.",
     images: [
-      { id: "3-1", src: `${basePath}/images/year3/3rd year psits.jpg`, caption: "PSITS Mindanao Tournament - we had a blast despite losing. A huge learning experience that taught us to enjoy the journey", lens: "events" },
-      { id: "3-2", src: `${basePath}/images/year3/3rd year palaro.jpg`, caption: "Palarong Atenista - we had fun even though we only got 2nd place. The competition brought us closer together", lens: "events" },
+      { id: "3-1", src: `${basePath}/images/year3/3rd_year_psits.jpg`, caption: "PSITS Mindanao Tournament - we had a blast despite losing. A huge learning experience that taught us to enjoy the journey", lens: "events" },
+      { id: "3-2", src: `${basePath}/images/year3/3rd_year_palaro.jpg`, caption: "Palarong Atenista - we had fun even though we only got 2nd place. The competition brought us closer together", lens: "events" },
     ],
   },
   {
@@ -67,8 +67,8 @@ export const journeyData: YearData[] = [
     title: "🦅 Year 4: Soaring",
     description: "Reflection and gratitude. Celebrating how far I've come and where I'm heading.",
     images: [
-      { id: "4-1", src: `${basePath}/images/year4/4th year.jpg`, caption: "Crocodile Park adventure with friends - a memorable get-together where we just had a ton of fun being together", lens: "people" },
-      { id: "4-2", src: `${basePath}/images/year4/4th_year palarong atenista championship.jpg`, caption: "Palarong Atenista Champions! We finally won the championship - all those years of competing together paid off", lens: "events" },
+      { id: "4-1", src: `${basePath}/images/year4/4th_year.jpg`, caption: "Crocodile Park adventure with friends - a memorable get-together where we just had a ton of fun being together", lens: "people" },
+      { id: "4-2", src: `${basePath}/images/year4/4th_year_palarong_atenista_championship.jpg`, caption: "Palarong Atenista Champions! We finally won the championship - all those years of competing together paid off", lens: "events" },
       { id: "4-3", src: `${basePath}/images/year4/4th_year_class_picture.jpg`, caption: "Class picture - we took time to capture this moment together, knowing these faces shaped my college journey", lens: "people" },
     ],
   },
